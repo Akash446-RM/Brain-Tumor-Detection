@@ -35,28 +35,6 @@ The entire pipeline runs instantly inside the Streamlit interface.
 
 ---
 
-## ⭐ **Key Features**
-
-### 🧠 **1. Brain Tumor Classification**  
-Accurately detects whether an MRI scan contains a tumor using a trained CNN model.
-
-### 📸 **2. Clean Image Upload UI**  
-Drag-and-drop or browse to upload MRI images.
-
-### ⚡ **3. Real-Time Predictions**  
-Instant feedback with confidence percentages.
-
-### 📊 **4. Raw Probability Display**  
-Shows predictions for both classes: **No Tumor**, **Tumor**.
-
-### ☁️ **5. Fully Deployed on Streamlit Cloud**  
-Public access — no setup required.
-
-### 🧩 **6. Lightweight, Fast & Easy to Use**  
-Optimized preprocessing ensures fast predictions.
-
----
-
 ## 🛠️ **Technologies Used**
 
 | Component | Technology |
@@ -71,5 +49,19 @@ Optimized preprocessing ensures fast predictions.
 ---
 
 ## 📂 **Project Structure**
+
+app.py → Main Streamlit application file
+
+BrainTumor10Epochscategorical.h5 → Trained CNN model
+
+maintest.py → Script for testing the model locally
+
+maintrain.py → Script used to train the model
+
+requirements.txt → Python dependencies
+
+README.md → Project documentation
+
+.gitignore → Files and folders to ignore in Git
 
 
