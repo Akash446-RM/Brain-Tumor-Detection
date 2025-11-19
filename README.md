@@ -5,7 +5,7 @@ A deep learning–powered web application built with **Python**, **TensorFlow**,
 https://brain-tumor-detection-5ta6rtfbao6eeajtljf69v.streamlit.app/
 
 ---
-## Dataset used
+## Dataset used(to train model)
 https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=Br35H-Mask-RCNN
 
 ---
