@@ -61,5 +61,19 @@ Brain-Tumor-Detection/
 - **.gitignore** → Files and folders to ignore in Git  
 - **.venv/** → Virtual environment directory *(not uploaded to GitHub)*  
 
+## ⚙️ How to Run
+
+### 1️⃣ Clone the repository:
+git clone https://github.com/Akash446-RM/Brain-Tumor-Detection.git
+### 2️⃣ Create and activate a virtual environment:
+python -m venv .venv
+.venv\Scripts\activate
+### 3️⃣ Install the dependencies:
+pip install -r requirements.txt
+### 5️⃣ Run the Streamlit app:
+streamlit run app.py
+
+
+
 
 
