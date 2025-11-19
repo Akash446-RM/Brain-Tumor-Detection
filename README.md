@@ -50,8 +50,6 @@ The entire pipeline runs instantly inside the Streamlit interface.
 
 ## 📂 **Project Structure**
 
-## 📂 Project Structure
-
 Brain-Tumor-Detection/
 
 - **app.py** → Main Streamlit application file  
