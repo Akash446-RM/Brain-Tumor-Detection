@@ -73,6 +73,17 @@ pip install -r requirements.txt
 ### 5️⃣ Run the Streamlit app:
 streamlit run app.py
 
+## ✅ Insights and Learnings
+
+- Built and deployed a CNN-based model for brain tumor detection.  
+- Learned effective environment and dependency management for deployment.  
+- Integrated a deep learning model into a real-time Streamlit web app.  
+
+## 🚀 Future Improvements
+
+- Add Grad-CAM heatmaps to highlight tumor regions.  
+- Improve UI/UX with modern design and multi-image upload.  
+- Provide downloadable PDF reports with predictions and confidence scores.  
 
 
 
