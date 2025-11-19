@@ -6,7 +6,8 @@ https://brain-tumor-detection-5ta6rtfbao6eeajtljf69v.streamlit.app/
 
 ---
 ## Dataset used
- https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=Br35H-Mask-RCNN
+https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=Br35H-Mask-RCNN
+
 ---
 ## 📖 About The Project  
 This project is designed as a complete end-to-end **machine learning + web deployment** application.  
