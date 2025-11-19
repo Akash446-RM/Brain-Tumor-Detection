@@ -50,13 +50,18 @@ The entire pipeline runs instantly inside the Streamlit interface.
 
 ## 📂 **Project Structure**
 
--app.py → Main Streamlit application file
--BrainTumor10Epochscategorical.h5 → Trained CNN model
--maintest.py → Script for testing the model locally
--maintrain.py → Script used to train the model
--requirements.txt → Python dependencies
--README.md → Project documentation
--.gitignore → Files and folders to ignore in Git
--.venv/: Virtual environment directory.
+## 📂 Project Structure
+
+Brain-Tumor-Detection/
+
+- **app.py** → Main Streamlit application file  
+- **BrainTumor10Epochscategorical.h5** → Trained CNN model  
+- **maintest.py** → Script for testing the model locally  
+- **maintrain.py** → Script used to train the model  
+- **requirements.txt** → Python dependencies  
+- **README.md** → Project documentation  
+- **.gitignore** → Files and folders to ignore in Git  
+- **.venv/** → Virtual environment directory *(not uploaded to GitHub)*  
+
 
 
