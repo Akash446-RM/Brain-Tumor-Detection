@@ -2,7 +2,6 @@
 import streamlit as st
 from tensorflow.keras.models import load_model
 import numpy as np
-import cv2
 from PIL import Image
 import tensorflow as tf
 
@@ -62,3 +61,4 @@ if uploaded_file is not None:
     st.success("Done ✅")
 else:
     st.info("Upload an image to get prediction.")
+
