@@ -41,7 +41,7 @@ The entire pipeline runs instantly inside the Streamlit interface.
 ## 🛠️ **Technologies Used**
 
 | Component | Technology |
-|----------|------------|
+|----------|------------| 
 | Language | Python |
 | ML / DL | TensorFlow, Keras |
 | Web Framework | Streamlit |
